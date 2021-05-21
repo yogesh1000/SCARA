@@ -1,2 +1,2 @@
 # check2
-robitic arm
+robotic arm
